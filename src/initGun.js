@@ -4,9 +4,9 @@ import "gun/lib/webrtc";
 let peers;
 
 if (process.env.NODE_ENV === "development") {
-  peers = ["http://localhost:8765/gun"];
+//  peers = ["http://localhost:8765/gun"];
 } else {
-  peers = [
+ peers = [
     // Community relay peers: https://github.com/amark/gun/wiki/volunteer.dht
    //  "https://www.raygun.live/gun",
  //    "https://gunmeetingserver.herokuapp.com/gun",
