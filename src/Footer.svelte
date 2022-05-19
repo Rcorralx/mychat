@@ -7,7 +7,7 @@
   Using
   <a href="https://svelte.dev/">svelte</a>
   and
-  <a href="https://gun.eco/">gunDB</a>
+  <a href="https://gun.eco/">gunDBxyz</a>
   see
   <a href="https://github.com/vnglst/svelte-gundb-chat">Github</a>
   <br />
