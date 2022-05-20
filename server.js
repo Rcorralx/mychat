@@ -2,7 +2,7 @@ const Hapi = require("@hapi/hapi");
 const Gun = require("gun");
 
 const server = new Hapi.Server({
-  port: 3000,
+  port: 8765,
   host: "localhost",
 });
 
