@@ -4,7 +4,7 @@ import "gun/lib/webrtc";
 let peers;
 
 if (process.env.NODE_ENV === "development") {
-//  peers = ["https://mychat-x1.vercel.app/gun"];
+//  peers = ["http://localhost:3000/gun"];
 } else {
  peers = [
     // Community relay peers: https://github.com/amark/gun/wiki/volunteer.dht
