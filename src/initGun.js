@@ -9,7 +9,7 @@ if (process.env.NODE_ENV === "development") {
  peers = [
     //Community relay peers: https://github.com/amark/gun/wiki/volunteer.dht
    // "https://www.raygun.live/gun",
-   "https://mychat-wine.vercel.app/gun","http://etogun.glitch.me:4200/gun",
+   "https://mychat-wine.vercel.app/gun","http://relay-gun.glitch.me:4200/gun",
   //  "https://gun-us.herokuapp.com/gun",
  //   "https://gun-eu.herokuapp.com/gun",
     // My own relay peer
