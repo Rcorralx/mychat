@@ -16,7 +16,7 @@
     "prettier-plugin-svelte": "^1.1.0",
     "rollup": "^2.7.2",
     "rollup-plugin-livereload": "^1.0.0",
-    "rollup-plugin-svelte": "^5.0.3",
+    "rollup-plugin-svelte": "^6.1.1",
     "rollup-plugin-terser": "^5.1.2",
     "svelte": "^3.21.0",
     "workbox-cli": "^6.5.3"
